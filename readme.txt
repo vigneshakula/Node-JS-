@@ -1,1 +1,1 @@
-This repository consists of NodeJS practice Problems
+This repository consists of NodeJS practice Problems and projects.
